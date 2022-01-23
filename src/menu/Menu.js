@@ -1,4 +1,3 @@
-import React, { Component } from "react";
 import { makeStyles } from "@material-ui/core/styles";
 import MenuItem from "./MenuItem.js";
 const useStyles = makeStyles((theme) => ({
