@@ -1,4 +1,3 @@
-import React from "react";
 import HourglassFullIcon from "@material-ui/icons/HourglassFull";
 import Grid from "@material-ui/core/Grid";
 
